@@ -30,7 +30,7 @@ b. For the hidden units.
 Repeat iterations until convergence in term of the selected error criterion. An iteration includes presenting an instance, calculating activation and modifying weights
 
 
-## <br/><br/><br/><br/>Algorithm
+## <br/><br/><br/>Algorithm
 1.Import packages \
 2.Defining Sigmoid Function for output \
 3.Derivative of Sigmoid Function \
@@ -96,5 +96,5 @@ print("Predicted Output: \n",output)
 ![Screenshot (32)](https://user-images.githubusercontent.com/75234646/169234360-ac61e2f1-87f0-4935-8220-212538eb67c1.png)
 
 
-## <br/><br/>Result:
+## <br/><br/><br/><br/>Result:
 Thus the python program successully implemented multi layer artificial neural network using back propagation algorithm.
