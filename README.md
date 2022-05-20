@@ -96,5 +96,5 @@ print("Predicted Output: \n",output)
 ![Screenshot (32)](https://user-images.githubusercontent.com/75234646/169234360-ac61e2f1-87f0-4935-8220-212538eb67c1.png)
 
 
-## Result:
+## <br/><br/><br/><br/><br/>Result:
 Thus the python program successully implemented multi layer artificial neural network using back propagation algorithm.
