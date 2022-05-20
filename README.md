@@ -42,8 +42,8 @@ Repeat iterations until convergence in term of the selected error criterion. An 
 ```python
 """
 Program to implement ANN by back propagation algorithm.
-Developed by   : Loghul M
-RegisterNumber :  212220230029
+Developed by   : Pradeep P S
+RegisterNumber :  212220230034
 """
 
 import numpy as np
