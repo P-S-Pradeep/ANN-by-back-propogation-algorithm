@@ -1,5 +1,5 @@
 ### EX NO : 06
-### DATE  : 29.04.2022
+### DATE  :29.04.2022
 
 # <p align="center"> ANN BY BACK PROPAGATION ALGORITHM </p>
 ## Aim:
@@ -30,7 +30,7 @@ b. For the hidden units.
 Repeat iterations until convergence in term of the selected error criterion. An iteration includes presenting an instance, calculating activation and modifying weights
 
 
-## <br/><br/><br/>Algorithm
+## <br/><br/><br/><br/><br/><br/>Algorithm
 1.Import packages \
 2.Defining Sigmoid Function for output \
 3.Derivative of Sigmoid Function \
@@ -42,8 +42,8 @@ Repeat iterations until convergence in term of the selected error criterion. An 
 ```python
 """
 Program to implement ANN by back propagation algorithm.
-Developed by   : Pradeep P S
-RegisterNumber :  212220230034
+Developed by   : Loghul M
+RegisterNumber :  212220230029
 """
 
 import numpy as np
@@ -96,5 +96,5 @@ print("Predicted Output: \n",output)
 ![Screenshot (32)](https://user-images.githubusercontent.com/75234646/169234360-ac61e2f1-87f0-4935-8220-212538eb67c1.png)
 
 
-## <br/><br/><br/><br/>Result:
+## Result:
 Thus the python program successully implemented multi layer artificial neural network using back propagation algorithm.
